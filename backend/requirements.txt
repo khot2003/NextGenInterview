@@ -1,0 +1,30 @@
+# fastapi
+# uvicorn
+# pymongo
+# pydantic
+# python-dotenv
+# passlib[bcrypt]
+# PyJWT
+# pdfplumber
+# google-generativeai
+# python-docx
+fastapi
+uvicorn[standard]
+pymongo
+pydantic
+python-dotenv
+passlib[bcrypt]
+PyJWT
+pdfplumber
+google-generativeai
+python-docx
+python-multipart
+transformers
+sentence-transformers
+language-tool-python
+librosa
+torch
+torchaudio
+speechrecognition
+faster-whisper
+speechbrain
