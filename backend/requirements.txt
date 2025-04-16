@@ -29,4 +29,6 @@ speechrecognition
 faster-whisper
 speechbrain
 email-validator
+language-tool-python
+
 
