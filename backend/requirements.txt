@@ -11,7 +11,7 @@
 fastapi
 uvicorn[standard]
 pymongo
-pydantic
+pydantic==1.10.13 
 python-dotenv
 passlib[bcrypt]
 PyJWT
@@ -28,3 +28,5 @@ torchaudio
 speechrecognition
 faster-whisper
 speechbrain
+email-validator
+
