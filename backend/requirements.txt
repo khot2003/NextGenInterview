@@ -11,8 +11,7 @@
 fastapi
 uvicorn[standard]
 pymongo
-pydantic 2.10.6
-pydantic_core 2.27.2
+pydantic>=2.1.1
 python-dotenv
 passlib[bcrypt]
 PyJWT
