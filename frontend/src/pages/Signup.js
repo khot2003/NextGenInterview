@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useNavigate, Link } from "react-router-dom";
 import { signup } from "../services/authService";
 import { FaUser, FaEnvelope, FaLock, FaUserPlus, FaEye, FaEyeSlash } from "react-icons/fa"; 
-import signupImage from "./gemini5.jpeg"; 
+import signupImage from "./gemini5.png"; 
 
 const Signup = () => {
   const [formData, setFormData] = useState({ email: "", password: "", username: "" });

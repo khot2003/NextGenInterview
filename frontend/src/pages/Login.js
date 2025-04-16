@@ -3,7 +3,7 @@ import { useNavigate, Link } from "react-router-dom";
 import { login } from "../services/authService";
 import { FaUser, FaLock } from "react-icons/fa";  // Import icons
 import { AiFillEye, AiFillEyeInvisible } from "react-icons/ai";  // Import eye icons
-import loginImage from "./gemini5.jpeg"; // Keep the existing image
+import loginImage from "./gemini5.png"; // Keep the existing image
 
 const Login = () => {
   const [formData, setFormData] = useState({ email: "", password: "" });
